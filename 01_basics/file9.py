@@ -13,4 +13,5 @@ print("Mera gsoc hoga")
 print("Mera gsoc 100% hoga essse saal")
 print("ABbb toh mera gsoc hona pakka ho gya")
 print("Mera gsoc pakka hoga")
+print("Maintainer mujhe hee select karega gsoc ke liye")
 
