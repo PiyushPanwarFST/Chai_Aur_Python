@@ -18,4 +18,5 @@ print("Mera selcetion pakka hoga hr haal mai")
 print("Mera gsoc esse saal pakka confirm hoga")
 print("Mera gsoc hr haal mai hoga, maintainer mujhe hee select karenge")
 print("Mera gsoc pakka hoga")
+print("Mera gosc ess saal hr haal mai hoga bina kise doubt ke")
 
